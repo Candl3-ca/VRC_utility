@@ -2,4 +2,4 @@
 
 
 
-A dead vrchat mod that has a button test and a hdie over distance mod
+A dead vrchat mod that has a button test and a hide over distance feauture 
